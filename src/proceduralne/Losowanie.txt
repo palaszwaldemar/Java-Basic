@@ -1,0 +1,23 @@
+- Przygotowuje dwie tablice (dajacy i otrzymujacy)
+- Losuje osobe z "dajacy" i usuwam z talbicy
+- losuje osobe z "otrzymujacy" i usuwam z tablicy
+
+
+[a,b,c,d]
+[a,b,c,d]
+
+a -> c
+d -> a
+b -> d
+c -> b
+
+8Adam5
+4Bartosz6
+7Celina10
+9Dawid9
+2Edward4
+10Franek3
+5Grzegorz2
+6Henryk1
+3Iza8
+1Janina7
